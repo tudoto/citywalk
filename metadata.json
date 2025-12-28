@@ -1,0 +1,7 @@
+{
+  "name": "CityWalk AI",
+  "description": "An iOS-styled City Walk planner powered by Gemini, combining social media trends with location-based routing.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
